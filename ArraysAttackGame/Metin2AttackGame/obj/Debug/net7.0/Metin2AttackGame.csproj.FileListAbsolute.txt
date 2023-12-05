@@ -1,0 +1,15 @@
+/Users/enverucpinar/Desktop/C#/Metin2AttackGame/Metin2AttackGame/bin/Debug/net7.0/Metin2AttackGame
+/Users/enverucpinar/Desktop/C#/Metin2AttackGame/Metin2AttackGame/bin/Debug/net7.0/Metin2AttackGame.deps.json
+/Users/enverucpinar/Desktop/C#/Metin2AttackGame/Metin2AttackGame/bin/Debug/net7.0/Metin2AttackGame.runtimeconfig.json
+/Users/enverucpinar/Desktop/C#/Metin2AttackGame/Metin2AttackGame/bin/Debug/net7.0/Metin2AttackGame.dll
+/Users/enverucpinar/Desktop/C#/Metin2AttackGame/Metin2AttackGame/bin/Debug/net7.0/Metin2AttackGame.pdb
+/Users/enverucpinar/Desktop/C#/Metin2AttackGame/Metin2AttackGame/obj/Debug/net7.0/Metin2AttackGame.csproj.AssemblyReference.cache
+/Users/enverucpinar/Desktop/C#/Metin2AttackGame/Metin2AttackGame/obj/Debug/net7.0/Metin2AttackGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enverucpinar/Desktop/C#/Metin2AttackGame/Metin2AttackGame/obj/Debug/net7.0/Metin2AttackGame.AssemblyInfoInputs.cache
+/Users/enverucpinar/Desktop/C#/Metin2AttackGame/Metin2AttackGame/obj/Debug/net7.0/Metin2AttackGame.AssemblyInfo.cs
+/Users/enverucpinar/Desktop/C#/Metin2AttackGame/Metin2AttackGame/obj/Debug/net7.0/Metin2AttackGame.csproj.CoreCompileInputs.cache
+/Users/enverucpinar/Desktop/C#/Metin2AttackGame/Metin2AttackGame/obj/Debug/net7.0/Metin2AttackGame.dll
+/Users/enverucpinar/Desktop/C#/Metin2AttackGame/Metin2AttackGame/obj/Debug/net7.0/refint/Metin2AttackGame.dll
+/Users/enverucpinar/Desktop/C#/Metin2AttackGame/Metin2AttackGame/obj/Debug/net7.0/Metin2AttackGame.pdb
+/Users/enverucpinar/Desktop/C#/Metin2AttackGame/Metin2AttackGame/obj/Debug/net7.0/Metin2AttackGame.genruntimeconfig.cache
+/Users/enverucpinar/Desktop/C#/Metin2AttackGame/Metin2AttackGame/obj/Debug/net7.0/ref/Metin2AttackGame.dll
