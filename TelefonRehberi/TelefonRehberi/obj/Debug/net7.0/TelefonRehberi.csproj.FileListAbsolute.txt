@@ -1,0 +1,15 @@
+/Users/enverucpinar/Desktop/C#/TelefonRehberi/TelefonRehberi/bin/Debug/net7.0/TelefonRehberi
+/Users/enverucpinar/Desktop/C#/TelefonRehberi/TelefonRehberi/bin/Debug/net7.0/TelefonRehberi.deps.json
+/Users/enverucpinar/Desktop/C#/TelefonRehberi/TelefonRehberi/bin/Debug/net7.0/TelefonRehberi.runtimeconfig.json
+/Users/enverucpinar/Desktop/C#/TelefonRehberi/TelefonRehberi/bin/Debug/net7.0/TelefonRehberi.dll
+/Users/enverucpinar/Desktop/C#/TelefonRehberi/TelefonRehberi/bin/Debug/net7.0/TelefonRehberi.pdb
+/Users/enverucpinar/Desktop/C#/TelefonRehberi/TelefonRehberi/obj/Debug/net7.0/TelefonRehberi.csproj.AssemblyReference.cache
+/Users/enverucpinar/Desktop/C#/TelefonRehberi/TelefonRehberi/obj/Debug/net7.0/TelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enverucpinar/Desktop/C#/TelefonRehberi/TelefonRehberi/obj/Debug/net7.0/TelefonRehberi.AssemblyInfoInputs.cache
+/Users/enverucpinar/Desktop/C#/TelefonRehberi/TelefonRehberi/obj/Debug/net7.0/TelefonRehberi.AssemblyInfo.cs
+/Users/enverucpinar/Desktop/C#/TelefonRehberi/TelefonRehberi/obj/Debug/net7.0/TelefonRehberi.csproj.CoreCompileInputs.cache
+/Users/enverucpinar/Desktop/C#/TelefonRehberi/TelefonRehberi/obj/Debug/net7.0/TelefonRehberi.dll
+/Users/enverucpinar/Desktop/C#/TelefonRehberi/TelefonRehberi/obj/Debug/net7.0/refint/TelefonRehberi.dll
+/Users/enverucpinar/Desktop/C#/TelefonRehberi/TelefonRehberi/obj/Debug/net7.0/TelefonRehberi.pdb
+/Users/enverucpinar/Desktop/C#/TelefonRehberi/TelefonRehberi/obj/Debug/net7.0/TelefonRehberi.genruntimeconfig.cache
+/Users/enverucpinar/Desktop/C#/TelefonRehberi/TelefonRehberi/obj/Debug/net7.0/ref/TelefonRehberi.dll
