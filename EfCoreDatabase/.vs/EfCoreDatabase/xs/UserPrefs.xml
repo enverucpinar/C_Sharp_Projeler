@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{22062BAE-3C6F-4C7D-BFC7-A973E7F7B677}|Default">
+  <MonoDevelop.Ide.ItemProperties.EfCoreDatabase PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EfCoreDatabase/Program.cs">
+    <Files>
+      <File FileName="EfCoreDatabase/Program.cs" Line="7" Column="28" />
+      <File FileName="EfCoreDatabase/DAL/AppDbContext.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EfCoreDatabase" expanded="True">
+            <Node name="EfCoreDatabase" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
